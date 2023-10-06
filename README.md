@@ -64,5 +64,5 @@ useGetAuthorizedUserDataQuery - дата авторизованного поль
 useGetProfilePathIdByEmailQuery - pathId любого пользователя, принимает email. Возвращает pathId
 ## Demo changes:
 
-query, services, src\components\avatar\CustomAvatar.tsx, src\components\banner\CustomBanner.tsx
+query, services, src\components\avatar\CustomAvatar.tsx, src\components\banner\CustomBanner.tsx, redirect into pages
 
