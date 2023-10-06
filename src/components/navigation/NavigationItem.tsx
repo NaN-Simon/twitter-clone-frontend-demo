@@ -46,7 +46,7 @@ const NavigationItem: FC<INavigationItem> = ({ navItem, isActiveItem }) => {
           cursor: 'pointer',
         }}
       >
-        <div style={{color: navItem.url === '#' ? 'red' : 'black'}}>{navItem.title}</div>
+        {navItem.title}
       </Button>
     </MenuItem>
   );

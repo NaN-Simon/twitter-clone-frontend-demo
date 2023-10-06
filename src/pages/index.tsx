@@ -10,14 +10,14 @@ import { check } from '../api/authCheck';
 const Home = () => {
   const { push } = useRouter();
 
-  // useEffect(() => {
-  //   check().then((res) => !res && push('/logout'));
-  // }, [push]);
+  useEffect(() => {
+    check().then((res) => !res && push('/logout'));
+  }, [push]);
 
   return (
     <>
       <DefaultSeo title="Home" {...SEO} />
-      <Container>
+      <Container className='page-home' disableGutters>
         <HomeView />
       </Container>
     </>

@@ -10,14 +10,14 @@ import ProfileView from '@/views/profile/ProfileView';
 const Profile = () => {
   const { push } = useRouter();
 
-  // useEffect(() => {
-  //   check().then((res) => !res && push('/logout'));
-  // }, [push]);
+  useEffect(() => {
+    check().then((res) => !res && push('/logout'));
+  }, [push]);
 
   return (
     <>
       <DefaultSeo title="Profile" {...SEO} />
-      <Container>
+      <Container  className='page-profile' disableGutters>
         <ProfileView />
       </Container>
     </>
