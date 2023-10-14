@@ -62,7 +62,3 @@ Next, open [http://localhost:3000](http://localhost:3000) with your browser to s
 useGetAuthorizedUserDataQuery - дата авторизованного пользователя, не принимает пропсы. Возвращает: profileId, username, email, followers, followees, joinDate, bio, location, website, birthDate, avatarUrl, bannerUrl
 
 useGetProfilePathIdByEmailQuery - pathId любого пользователя, принимает email. Возвращает pathId
-## Demo changes:
-
-query, services, src\components\avatar\CustomAvatar.tsx, src\components\banner\CustomBanner.tsx, redirect into pages
-
