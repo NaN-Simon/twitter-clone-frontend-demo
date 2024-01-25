@@ -12,8 +12,8 @@
         "location": "Earth",
         "website": "",
         "birthDate": null,
-        "avatarUrl": "https://twitter-clone-storages.s3.amazonaws.com/1694626287063_INl3HaWCkDQ.jpg",
-        "bannerUrl": "https://twitter-clone-storages.s3.amazonaws.com/1692438747130_CGp71I2OOLo.jpg"
+        "avatarUrl": "https://via.placeholder.com/600/56a8c2",
+        "bannerUrl": "https://api.slingacademy.com/public/sample-photos/2.jpeg"
       },
       {
         "profileId": "64d8f900fa2cdc5292996fcb",
@@ -26,7 +26,7 @@
         "location": "",
         "website": "",
         "birthDate": null,
-        "avatarUrl": "https://twitter-clone-storages.s3.amazonaws.com/1692558602241_UPQShm6iXjk.jpg",
+        "avatarUrl": "https://via.placeholder.com/600/9c184f",
         "bannerUrl": null
       },
       {

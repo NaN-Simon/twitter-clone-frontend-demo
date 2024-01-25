@@ -14,12 +14,12 @@
           "location": "",
           "website": "",
           "birthDate": null,
-          "avatarUrl": "https://twitter-clone-storages.s3.amazonaws.com/1692558602241_UPQShm6iXjk.jpg",
+          "avatarUrl": "https://via.placeholder.com/600/d32776",
           "bannerUrl": null
       },
-      "text": "Demo - 42",
+      "text": "Demo tweet 12",
       "mediaUrls": [
-          "https://twitter-clone-storages.s3.amazonaws.com/1694535487304_KlRW6E_-bOs.jpg"
+          "https://api.slingacademy.com/public/sample-photos/1.jpeg"
       ],
       "quoteTo": null,
       "retweets": 0,
@@ -46,10 +46,10 @@
           "location": "",
           "website": "",
           "birthDate": null,
-          "avatarUrl": "https://twitter-clone-storages.s3.amazonaws.com/1692558602241_UPQShm6iXjk.jpg",
+          "avatarUrl": "https://via.placeholder.com/600/d32776",
           "bannerUrl": null
       },
-      "text": "Demo - 1111111111111111",
+      "text": "Demo tweet 11 - 1111111111111111",
       "mediaUrls": [],
       "quoteTo": null,
       "retweets": 0,
@@ -76,10 +76,10 @@
           "location": "",
           "website": "",
           "birthDate": null,
-          "avatarUrl": "https://twitter-clone-storages.s3.amazonaws.com/1692558602241_UPQShm6iXjk.jpg",
+          "avatarUrl": "https://via.placeholder.com/600/d32776",
           "bannerUrl": null
       },
-      "text": "Demo - xxxxxxxxxxxxxxx",
+      "text": "Demo tweet 10 - xxxxxxxxxxxxxxx",
       "mediaUrls": [],
       "quoteTo": null,
       "retweets": 0,
@@ -106,10 +106,10 @@
           "location": "",
           "website": "",
           "birthDate": null,
-          "avatarUrl": "https://twitter-clone-storages.s3.amazonaws.com/1692558602241_UPQShm6iXjk.jpg",
+          "avatarUrl": "https://via.placeholder.com/600/d32776",
           "bannerUrl": null
       },
-      "text": "Demo - cccccccccccc",
+      "text": "Demo tweet 9 - cccccccccccc",
       "mediaUrls": [],
       "quoteTo": null,
       "retweets": 0,
@@ -136,10 +136,10 @@
           "location": "",
           "website": "",
           "birthDate": null,
-          "avatarUrl": "https://twitter-clone-storages.s3.amazonaws.com/1692558602241_UPQShm6iXjk.jpg",
+          "avatarUrl": "https://via.placeholder.com/600/d32776",
           "bannerUrl": null
       },
-      "text": "Demo - ssssssssssssss",
+      "text": "Demo tweet 8 - ssssssssssssss",
       "mediaUrls": [],
       "quoteTo": null,
       "retweets": 0,
@@ -169,7 +169,7 @@
           "avatarUrl": null,
           "bannerUrl": null
       },
-      "text": "Demo - tjyjyj",
+      "text": "Demo tweet 7 - tjyjyj",
       "mediaUrls": [],
       "quoteTo": null,
       "retweets": 0,
@@ -199,7 +199,7 @@
           "avatarUrl": null,
           "bannerUrl": null
       },
-      "text": "Demo - cfgyhfgh",
+      "text": "Demo tweet 6 - cfgyhfgh",
       "mediaUrls": [],
       "quoteTo": null,
       "retweets": 0,
@@ -229,7 +229,7 @@
           "avatarUrl": null,
           "bannerUrl": null
       },
-      "text": "Demo - drtfuhdrtfuj",
+      "text": "Demo tweet 5 - drtfuhdrtfuj",
       "mediaUrls": [],
       "quoteTo": null,
       "retweets": 0,
@@ -259,7 +259,7 @@
           "avatarUrl": null,
           "bannerUrl": null
       },
-      "text": "Demo - gfhfch",
+      "text": "Demo tweet 4 - gfhfch",
       "mediaUrls": [],
       "quoteTo": null,
       "retweets": 0,
@@ -289,7 +289,7 @@
           "avatarUrl": null,
           "bannerUrl": null
       },
-      "text": "Demo - srftghsfrdgh",
+      "text": "Demo tweet 3 - srftghsfrdgh",
       "mediaUrls": [],
       "quoteTo": null,
       "retweets": 0,
@@ -319,7 +319,7 @@
           "avatarUrl": null,
           "bannerUrl": null
       },
-      "text": "Demo - Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "text": "Demo tweet 2 - Lorem ipsum dolor sit amet consectetur adipisicing elit.",
       "mediaUrls": [],
       "quoteTo": null,
       "retweets": 1,
@@ -346,10 +346,10 @@
           "location": null,
           "website": null,
           "birthDate": null,
-          "avatarUrl": null,
+          "avatarUrl": "https://via.placeholder.com/600/92c952",
           "bannerUrl": null
       },
-      "text": "Demo - Lorem ipsum dolor sit amet consectetur adipisicing elit.4",
+      "text": "Demo tweet 1 - Lorem ipsum dolor sit amet consectetur adipisicing elit.4",
       "mediaUrls": [],
       "quoteTo": null,
       "retweets": 0,

@@ -16,7 +16,7 @@ const nextConfig = {
     ignoreDuringBuilds: true
   },
   images: {
-    domains: ['twitter-clone-storages.s3.amazonaws.com'],
+    domains: ['twitter-clone-storages.s3.amazonaws.com', 'via.placeholder.com', 'api.slingacademy.com'],
   },
 }
 
